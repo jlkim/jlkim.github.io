@@ -6,8 +6,15 @@
     <description>Recent content on J. Leo Kim</description>
     <generator>Hugo -- 0.150.1</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dissipative dark cosmology: From early matter dominance to delayed compact objects</title>
+      <link>http://localhost:1313/research/paper1/</link>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/paper1/</guid>
+      <description>This paper shows the formation of dark compact objects in a dissipative dark sector in the early Universe, before Big Bang Nucleosynthesis.</description>
+    </item>
     <item>
       <title>Location</title>
       <link>http://localhost:1313/location/</link>
@@ -35,13 +42,6 @@
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/data/data1/</guid>
       <description>This dataset contains all irregular verbs in known Romance languages.</description>
-    </item>
-    <item>
-      <title>Unusual Uses For Olive Oil</title>
-      <link>http://localhost:1313/research/paper1/</link>
-      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/paper1/</guid>
-      <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013.</description>
     </item>
     <item>
       <title>The Finer Points of Sausage Dogs</title>
