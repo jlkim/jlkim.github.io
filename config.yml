@@ -20,7 +20,7 @@ menu:
           weight: 3
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
+    description: "Website of Leo Kim"
     author: Jungjoon Leo Kim
     # googleAnalyticsID: "G-FQDGD8LV4J"
     DateFormat: "January 2006"
@@ -35,7 +35,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["research","courses","data"]
+    MainSections: ["research","misc"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -46,7 +46,7 @@ params:
     profileMode:
           enabled: true
           title: Jungjoon Leo Kim
-          subtitle: "I am a Postdoctoral Fellow at York University in Toronto, Ontario, Canada. I am a theoretical physicist, interested in dark matter phenomenology and cosmology/astrophysics. Prior to working at York, I did my PhD at with Joe Bramante at Queen's University in Kingston, Ontario, Canada, and my Master of Mathematics working with Ghazal Geshnizjani at the University of Waterloo in Waterloo, Ontario, Canada."
+          subtitle: "I am a Postdoctoral Fellow at York University in Toronto, Ontario, Canada. I am a theoretical physicist, interested in dark matter phenomenology and cosmology/astrophysics. Prior to working at York, I did my PhD at with [Joe Bramante](https://www.queensu.ca/academia/bramante/) at Queen's University in Kingston, Ontario, Canada, and my Master of Mathematics working with [Ghazal Geshnizjani](https://ghazalgeshnizjani.wordpress.com/) at the University of Waterloo in Waterloo, Ontario, Canada."
           imageUrl: "icon.png"
           imageWidth: 160
           imageHeight: 160
@@ -91,3 +91,5 @@ markup:
         endLevel: 2
         ordered: false
         startLevel: 2
+
+
