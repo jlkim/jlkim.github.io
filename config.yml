@@ -49,7 +49,7 @@ params:
     profileMode:
           enabled: true
           title: Jungjoon Leo Kim
-          subtitle: "I am a Postdoctoral Fellow at York University in Toronto, Ontario, Canada. I am a theoretical physicist, interested in dark matter phenomenology and cosmology/astrophysics. Prior to working at York, I did my PhD at with [Joe Bramante](https://www.queensu.ca/academia/bramante/) at Queen's University in Kingston, Ontario, Canada, and my Master of Mathematics working with [Ghazal Geshnizjani](https://ghazalgeshnizjani.wordpress.com/) at the University of Waterloo in Waterloo, Ontario, Canada."
+          subtitle: "Hello! I am a Postdoctoral Fellow at York University in Toronto, Ontario, Canada. I am a theoretical physicist, interested in dark matter phenomenology primarily in the context of cosmology and astrophysics. Prior to working at York, I did my PhD at with [Joe Bramante](https://www.queensu.ca/academia/bramante/) at Queen's University in Kingston, Ontario, Canada, and my Master of Mathematics working with [Ghazal Geshnizjani](https://ghazalgeshnizjani.wordpress.com/) at the University of Waterloo in Waterloo, Ontario, Canada."
           imageUrl: "icon.png"
           imageWidth: 160
           imageHeight: 160
