@@ -45,3 +45,8 @@
 .button:hover {
     background: var(--lightcolor);
 }
+
+.profile .profile_inner a:not(.button):not(.icon) {
+    color: var(--darkcolor);
+    text-decoration: underline;
+}
