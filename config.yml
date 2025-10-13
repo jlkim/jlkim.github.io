@@ -49,10 +49,18 @@ params:
     profileMode:
           enabled: true
           title: Jungjoon Leo Kim
-          subtitle: "Hello! I am a Postdoctoral Fellow at York University in Toronto, Ontario, Canada. I am a theoretical physicist, interested in physics beyond the Standard Model of Particle Physics and dark matter phenomenology, primarily in the context of cosmology and astrophysics. Prior to working at York, I received my PhD in Physics working with [Joe Bramante](https://www.queensu.ca/academia/bramante/) at Queen's University in Kingston, Ontario, Canada, and my Master of Mathematics working with [Ghazal Geshnizjani](https://ghazalgeshnizjani.wordpress.com/) at the University of Waterloo in Waterloo, Ontario, Canada."
+          subtitle: "
+Hello! I am a Postdoctoral Fellow at York University in Toronto, Ontario, Canada. I am a theoretical physicist, interested in physics beyond the Standard Model of Particle Physics and dark matter phenomenology, primarily in the context of cosmology and astrophysics. Prior to working at York, I received my PhD in Physics working with [Joe Bramante](https://www.queensu.ca/academia/bramante/) at Queen's University in Kingston, Ontario, Canada, and my Master of Mathematics working with [Ghazal Geshnizjani](https://ghazalgeshnizjani.wordpress.com/) at the University of Waterloo in Waterloo, Ontario, Canada.
+
+
+<br>
+
+
+An updated list of my publications can be found on my [inspire page](https://inspirehep.net/authors/1945407) and my CV can be found [here](cv.pdf).
+"
           imageUrl: "icon.png"
-          imageWidth: 160
-          imageHeight: 160
+          imageWidth: 180
+          imageHeight: 180
           buttons:
             - name: Research
               url: research/
@@ -67,11 +75,11 @@ params:
         - name: Email
           url: mailto:jlkim@yorku.ca
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.ca/citations?user=laP7g0oAAAAJ&hl=en
         - name: GitHub
-          url: https://github.com/pmichaillat
+          url: https://github.com/jlkim
         - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://bsky.app/profile/jjlkim.bsky.social
 
     assets:
         disableScrollBarStyle: true
