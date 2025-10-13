@@ -12,26 +12,17 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
+        - name: Research
+          url: research/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Misc.
+          url: misc/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
 
 params:
     description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
-    # googleAnalyticsID: "G-XXXXX"
+    author: Jungjoon Leo Kim
+    # googleAnalyticsID: "G-FQDGD8LV4J"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
@@ -44,7 +35,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["research","courses","data"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -54,49 +45,29 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
+          title: Jungjoon Leo Kim
+          subtitle: "I am a Postdoctoral Fellow at York University in Toronto, Ontario, Canada. I am a theoretical physicist, interested in dark matter phenomenology and cosmology/astrophysics. Prior to working at York, I did my PhD at with Joe Bramante at Queen's University in Kingston, Ontario, Canada, and my Master of Mathematics working with Ghazal Geshnizjani at the University of Waterloo in Waterloo, Ontario, Canada."
+          imageUrl: "icon.png"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Research
+              url: research/
+            - name: Misc
+              url: misc/
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: mailto:jlkim@yorku.ca
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: GitHub
           url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/pmichaillat
         - name: Bluesky
+          url: https://bsky.app/profile/pmichaillat.bsky.social
+        - name: Inspire
           url: https://bsky.app/profile/pmichaillat.bsky.social
 
     assets:
