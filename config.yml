@@ -25,7 +25,7 @@ menu:
 params:
     description: "Website of Leo Kim"
     author: Jungjoon Leo Kim
-    # googleAnalyticsID: "G-FQDGD8LV4J"
+    googleAnalyticsID: "G-FQDGD8LV4J"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
