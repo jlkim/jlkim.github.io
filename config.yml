@@ -21,6 +21,9 @@ menu:
         - name: Misc.
           url: misc/
           weight: 4
+        - name: CV
+          url: cv.pdf
+          weight: 5
 
 params:
     description: "Website of Leo Kim"
