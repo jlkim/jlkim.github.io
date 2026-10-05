@@ -33,11 +33,20 @@ If dark matter is not a single particle, but is composed of several dark particl
 
 ---
 
-## Searching for Dark Compact Objects
+## Searching for Dark Compact Objects/Extended Dark Objects
 
 Dark compact objects can result from dissipative dark sectors or exotic cosmological scenarios (see above). This leads to new ways to go and hunt for dark matter in datasets which study (regular) compact objects, such as in microlensing data or gravitational wave data. I am interested in studying how one can use these datasets to place constraints on the population of dark compact objects, their formation mechanisms, and the fundamental properties of their constituent particles.
 
+- N. Blinov and **J. L. Kim**$^\dagger$, *Diffraction of gravitational waves by extended dark objects*, **Submitted to PRD** [[2609.13369].](https://arxiv.org/abs/2609.13369)
 - <span class="paper">J. Bramante, M. D. Diamond and **J. L. Kim**$^\dagger$, *Dimming Starlight with Dark Compact Objects*, **Phys. Rev. Lett. 134 (2025) 141001** [[2409.08322].](https://arxiv.org/abs/2409.08322) </span>
+
+---
+
+## New Phenomenology of Dark Sectors
+
+Dark matter models which go beyond the usual Cold Dark Matter paradigm can lead to significant differences in astrophysical observables. These differences can be used to differentiate and constrain the underlying classes of dark matter models.
+
+- J. Berger, A. Bhoonah, J. Bramante, **J. L. Kim**$^\dagger$, N. Song, and L. Widrow, *Galactic magnetic fields seeded by ultralight dark photons*, **Phys.Rev.D 113 (2026) 4, 043013** [[2511.07508].](https://arxiv.org/abs/2511.07508)
 
 ---
 
@@ -45,7 +54,7 @@ Dark compact objects can result from dissipative dark sectors or exotic cosmolog
 
 Almost 10 years ago, LIGO reported the first observation of gravitational waves from a binary black hole merger. Since then, gravitational waves have been used to study black holes, neutron stars, dark matter, all the complex astrophysics involved their formation and evolution, as well as the history of our Universe. I am interested in how one can use these relatively new signals to study the connection between dark matter, cosmology, and astrophysics.
 
-- <span class="paper">D. S. Hosseini, A. Dehghani, **J. L. Kim**, A. Krolewski, S. Mukherjee and G. Geshnizjani, *Modeling Gravitational Wave Bias from 3D Power Spectra of Spectroscopic Surveys*, **Submitted to JCAP.** [[2506.11201].](https://arxiv.org/abs/2506.11201)</span>
+- <span class="paper">D. S. Hosseini, A. Dehghani, **J. L. Kim**, A. Krolewski, S. Mukherjee and G. Geshnizjani, *Modeling Gravitational Wave Bias from 3D Power Spectra of Spectroscopic Surveys*, **JCAP 05 (2026) 029.** [[2506.11201].](https://arxiv.org/abs/2506.11201)</span>
 
 - <span class="paper">A. Dehghani, **J. L. Kim**, D. S. Hosseini, A. Krolewski, S. Mukherjee and G. Geshnizjani, *The gravitational wave bias parameter from angular power spectra: bridging between galaxies and binary black holes*, **JCAP 04 (2025) 056** [[2411.11965].](https://arxiv.org/abs/2411.11965)</span>
 
